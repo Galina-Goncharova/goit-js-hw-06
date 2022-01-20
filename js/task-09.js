@@ -12,3 +12,4 @@ const color = getRandomHexColor()
   colorName.textContent = color;
 }
 btnChangeColor.addEventListener('click', changeColorRandom);
+
